@@ -4,7 +4,7 @@
  
  - [Libraries](#libraries)
  - [Introduction](#introduction)
- - [Running the notebook](#running the notebook)
+ - [Running the notebook](#runningthenotebook)
  
 ## Libraries
 | Libraries |
