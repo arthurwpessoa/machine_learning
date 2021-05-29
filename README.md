@@ -2,10 +2,11 @@
 
 ## Contents  <!-- omit in toc -->
  
- - [Prerequisits](#prerequisits)
+ - [Libraries](#libraries)
  - [Introduction](#introduction)
+ - [Running the notebook](#running the notebook)
  
-## Prerequists
+## Libraries
 | Libraries |
 | ------------------------------ |
 | Numpy |
