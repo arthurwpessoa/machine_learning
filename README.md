@@ -17,6 +17,6 @@
 
 ## Introduction
 
-This project was created for the first assignment of the Machine Learning module on the MSc Computing program at Teesside University.
+This project analyzed a coffee shop dataset and used machine learning algorithms to predict the amount of pastry is needed/consumed on a given day, and described the possible outliers in the results. Moreover, this notebook was created for the Machine Learning module on the MSc Computing program at Teesside University.
 
-**Note:** There's a single web application with different routes for admin and end-users.
+**Note:**
