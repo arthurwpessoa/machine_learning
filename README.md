@@ -3,11 +3,10 @@
 
 ## Contents  <!-- omit in toc -->
  
- - [Libraries](#libraries)
  - [Introduction](#introduction)
  - [Dataset](#dataset)
- - [Running the notebook](#runningthenotebook)
- - [Results](#Results)
+ - [Running the notebook](#notebook)
+ - [Results](#results)
  
 ## Introduction
 
@@ -18,12 +17,11 @@ The experiments were conducted on a sample data module that contains representat
 
 The coffee shop inventory contains a series of information about the customer, generation, products, and sales targets, and staff, however, this analysis was only carried out against the pastry dataset.
 
-
-
-
 https://www.kaggle.com/ylchang/coffee-shop-sample-data-1113
 
-## Running the notebook
+![image](https://user-images.githubusercontent.com/5699782/120228559-aadedc80-c24b-11eb-8d3d-e9183746d4a4.png)
+
+## Notebook
 From the cloned directory, run the following command, and select the pastry.ipynb notebook.
 
     $ cd notebook
