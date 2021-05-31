@@ -1,4 +1,5 @@
-# Machine Learning - Automating Human Work <!-- omit in toc -->
+# Machine Learning - Using Machine Learning to Improve Coffee Shop Inventory
+ <!-- omit in toc -->
 
 ## Contents  <!-- omit in toc -->
  
@@ -23,4 +24,5 @@ This project analyzed a coffee shop dataset and used machine learning algorithms
 ## Running the notebook
 From the cloned directory, run the following command, and select the pastry.ipynb notebook.
 
+    $ cd cloned_directory
     $ jupyter notebook
