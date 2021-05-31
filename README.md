@@ -28,10 +28,9 @@ From the cloned directory, run the following command, and select the pastry.ipyn
     $ jupyter notebook
 
 ## Results
-| Libraries |
-| ------------------------------ |
-| Numpy |
-| matplotlib |
-| seaborn |
-| pandas |
-| sklearn |
+| Algorithm  | R²  | RSMD |
+| ------------------------------ |------------------------------ |------------------------------ 
+| Linear Regression | 97.47% | 1.88
+| Ridge Regression | 99.91% | 0.34
+| Bayesian Regression | 96.94% | 1.88
+| Lasso Regression | 96.68% | 1.84
