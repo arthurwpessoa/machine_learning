@@ -18,7 +18,7 @@ The experiments were conducted on a sample data module that contains representat
 
 The coffee shop inventory contains a series of information about the customer, generation, products, and sales targets, and staff, however, this analysis was only carried out against the pastry dataset.
 
-![Uploading image.png…]()
+
 
 
 https://www.kaggle.com/ylchang/coffee-shop-sample-data-1113
