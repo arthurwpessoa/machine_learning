@@ -25,4 +25,5 @@ This project analyzed a coffee shop dataset and used machine learning algorithms
 From the cloned directory, run the following command, and select the pastry.ipynb notebook.
 
     $ cd cloned_directory
+    
     $ jupyter notebook
